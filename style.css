@@ -1,0 +1,30 @@
+body {
+  font:  sans-serif;
+  color: rgba(0,0,0,0.5);
+  text-align: center;
+  top: 15%;
+  background: linear-gradient(to right, rgb(97, 215, 40), rgb(203, 253, 2)); /* Standard syntax */
+}
+ul {
+  padding-left: 0
+}
+
+ul li {
+  list-style-position: inside;
+}
+
+h1 {
+    font: 600 3.5em , sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+    font:  sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    letter-spacing: 0.01em;
+
+}
